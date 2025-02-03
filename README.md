@@ -2,9 +2,6 @@
  This app is a dummy of the Big available LLM model using models like Ollama deepseek-r1:1.5b 
 
 
-Here's a comprehensive README.md for your DeepSeek Code Companion project:
-
-```markdown
 # 🧠 DeepSeek Code Companion
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -14,8 +11,7 @@ Here's a comprehensive README.md for your DeepSeek Code Companion project:
 
 Your AI-powered pair programmer with advanced debugging capabilities and code optimization features.
 
-![Demo Screenshot](screenshot.png) <!-- Add screenshot path -->
-
+![Demo Screenshot](https://github.com/AnuragSharma5893/LLM_model/blob/main/ui%20(2).png?raw=true)
 ## Features
 
 - 🚀 Multi-model support (DeepSeek, LLaVA, Llama3)
@@ -34,10 +30,10 @@ Your AI-powered pair programmer with advanced debugging capabilities and code op
    - Python 3.9+ environment
 
 2. Clone the repository:
-```bash
+bash
 git clone https://github.com/yourusername/deepseek-code-companion.git
 cd deepseek-code-companion
-```
+
 
 3. Install dependencies:
 ```bash
@@ -113,20 +109,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 **Note**: Ensure Ollama server is running at `http://localhost:11434` before starting the app. Custom CSS styling can be modified in the app.py header section.
-```
 
-To complete your README:
 
-1. Add a screenshot of your app in action and replace `screenshot.png`
-2. Update the repository URL in the installation section
-3. Consider adding additional badges for specific model versions
-4. Add any project-specific notes or warnings in the Acknowledgements section
-
-This README provides:
-- Clear installation instructions
-- Visual hierarchy with emojis
-- Configuration details
-- Contribution guidelines
-- License information
-- Technology stack overview
-- Interactive elements with badges
